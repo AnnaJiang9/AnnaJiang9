@@ -30,6 +30,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt=""  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt=""  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt=""  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=""  />
