@@ -32,6 +32,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt=""  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt=""  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=roblox" height="40" alt=""  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt=""  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt=""  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cocos" height="40" alt=""  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt=""  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=""  />
