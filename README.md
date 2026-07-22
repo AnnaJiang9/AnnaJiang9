@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webGL" height="40" alt=""  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sveltejs" height="40" alt=""  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt=""  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=""  />
   <img width="12" />
