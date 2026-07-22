@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt=""  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maya" height="40" alt=""  />
+  <img src="https://skillicons.dev/icons?i=golang" height="40" alt=""  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt=""  />
   <img width="12" />
